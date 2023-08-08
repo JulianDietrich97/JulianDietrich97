@@ -2,7 +2,7 @@
 ## Hello! I'm Julian :argentina:
 Im a data scientist with a strong foundation in biological sciences. 
 
-              :bar_chart: :seedling: :mushroom: :dna: :microscope:
+  :bar_chart:  :seedling:  :mushroom:  :dna:  :microscope:
 
 :books: I hold a bachelor's degree in Biological Sciences, which has fueled my curiosity and analytical mindset. 
 
