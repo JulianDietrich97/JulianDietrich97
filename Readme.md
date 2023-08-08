@@ -1,5 +1,5 @@
 
-## Hello! I'm Julian Dietrich :argentina:
+## Hello! I'm Julian :argentina:
 Im a data scientist with a strong foundation in biological sciences. 
 
 :bar_chart: :seedling: :mushroom: :dna: :microscope:
