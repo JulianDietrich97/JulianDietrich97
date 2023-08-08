@@ -13,5 +13,3 @@ My journey from biology to data science has been an exciting fusion of science a
 
 
 
-<img src="(https://github.com/JulianDietrich97/JulianDietrich97/assets/117474938/e25d34af-6ff4-4ccf-b3aa-85ba627fc37d" alt="mypic" style="width:20px; height:20px"/>
-
