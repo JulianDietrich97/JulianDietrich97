@@ -16,5 +16,5 @@ The [program](https://institutodatascience.org/wp-content/uploads/2022/11/Brochu
 My journey from biology to data science has been an exciting fusion of science and technology, allowing me to explore complex datasets and derive meaningful insights.
 
 Social:
-![[image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )]({[BadgeURLHere](https://www.linkedin.com/in/julian-dietrich/)https://www.linkedin.com/in/julian-dietrich/})
+![[image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )]({[https://www.linkedin.com/in/julian-dietrich/]})
 
