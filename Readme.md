@@ -11,7 +11,7 @@ The [program](https://institutodatascience.org/wp-content/uploads/2022/11/Brochu
 
 My journey from biology to data science has been an exciting fusion of science and technology, allowing me to explore complex datasets and derive meaningful insights.
 
-![image](https://github.com/JulianDietrich97/JulianDietrich97/assets/117474938/e25d34af-6ff4-4ccf-b3aa-85ba627fc37d)
 
 
+<img src="(https://github.com/JulianDietrich97/JulianDietrich97/assets/117474938/e25d34af-6ff4-4ccf-b3aa-85ba627fc37d" alt="mypic" style="width:200px; height:200px"/>
 
