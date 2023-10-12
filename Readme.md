@@ -29,6 +29,11 @@ The achievements of this project are noteworthy. For a medical classifier, prior
 
 In summary, this project has shed light on the progressive changes in nuclear parameters associated with the transition from benign to malignant breast tumors, providing valuable insights for early detection and personalized treatment strategies.
 
+### Descriptive and Inferential Statistics: Effects of Temperature and pH on Bacterial Growth
+🌡️🔬🧬🧪
 
+In my project, "Descriptive and Inferential Statistics: Effects of Temperature and pH on Bacterial Growth," I conducted a comprehensive study to evaluate the impact of incubation pH and temperature on the growth of a bacterium with biotechnological potential. This research stems from my Bachelor's thesis in Biological Sciences from the National University of the South, although it uses a distinct dataset to avoid any copyright issues. I conducted the project individually and utilized Python for analysis, including bidirectional ANOVA, Levene tests, and distribution analysis.
+
+The key achievements of this project highlight the significant influence of both temperature and pH on the bacterium's growth, impacting essential cellular processes such as enzyme activity and nutrient availability. The analysis of variance indicated a significant impact of temperature and pH on the logCFU/ml of the bacterium, with a substantial interaction between the two factors. Notably, the highest growth was observed at a pH value of 7 and an incubation temperature of 45°C. An interaction plot was used to illustrate the differences observed under varying growth conditions.
 
 
