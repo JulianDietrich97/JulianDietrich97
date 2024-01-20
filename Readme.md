@@ -13,7 +13,7 @@ My journey from biology to data science has been an exciting fusion of science a
 
 ### My Projects:
 
-#### Journey to Immunity: Unveiling Patterns and Predictions in Argentina's COVID-19 Vaccination Data 
+#### [Journey to Immunity: Unveiling Patterns and Predictions in Argentina's COVID-19 Vaccination Data](https://github.com/JulianDietrich97/COVID19-ARG) 
 ##### Delayed Correlation: Vaccination and SARS-CoV-2 in Argentina
 💉📉📝
 
