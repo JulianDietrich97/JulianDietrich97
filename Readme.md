@@ -21,7 +21,7 @@ For my final work to obtain my Diploma in Data Science from the Data Science Ins
 
 In the project, it was found that the implementation of vaccination programs in Argentina significantly reduced COVID-19 cases. A negative and statistically significant correlation was observed between vaccination coverage and the incidence of COVID-19, with a one-year lag in the data. SARIMAX models were employed to forecast future trends, with the model incorporating an exogenous variable performing slightly better. This project's findings contribute valuable insights into the impact of vaccination programs on COVID-19 incidence in Argentina.
 
-#### Cell Nucleus Insights: K-means Clustering and Medical Classifiers in Breast Carcinoma Diagnosis 
+#### [Cell Nucleus Insights: K-means Clustering and Medical Classifiers in Breast Carcinoma Diagnosis](https://github.com/JulianDietrich97/BreastCancer) 
 ##### Breast Carcinoma Diagnosis using Cell Nucleus Morphological Characteristics
 🤖🔍🧬
 
@@ -31,7 +31,7 @@ The achievements of this project are noteworthy. For a medical classifier, prior
 
 In summary, this project has shed light on the progressive changes in nuclear parameters associated with the transition from benign to malignant breast tumors, providing valuable insights for early detection and personalized treatment strategies.
 
-#### From Lab to Industry: Optimizing Bacterial Cultivation through Temperature and pH Insights 
+#### [From Lab to Industry: Optimizing Bacterial Cultivation through Temperature and pH Insights](https://github.com/JulianDietrich97/BacteriaGrowthStats)
 ##### Descriptive and Inferential Statistics: Effects of Temperature and pH on Bacterial Growth
 🌡️🔬🧬🧪
 
