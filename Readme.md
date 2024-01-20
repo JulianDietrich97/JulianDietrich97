@@ -14,7 +14,7 @@ My journey from biology to data science has been an exciting fusion of science a
 ### My Projects:
 
 #### Journey to Immunity: Unveiling Patterns and Predictions in Argentina's COVID-19 Vaccination Data 
-### Delayed Correlation: Vaccination and SARS-CoV-2 in Argentina
+##### Delayed Correlation: Vaccination and SARS-CoV-2 in Argentina
 💉📉📝
 
 For my final work to obtain my Diploma in Data Science from the Data Science Institute in Argentina, I embarked on a project titled *"Delayed Correlation: Vaccination and SARS-CoV-2 in Argentina."* This undertaking involved an in-depth analysis of the delayed correlation between vaccination-related data and the rate of COVID-19 cases in Argentina. Leveraging Python and various libraries such as pandas, numpy, matplotlib, and advanced time series analysis tools, I conducted a comprehensive investigation, including time series analysis and the construction of predictive models.
